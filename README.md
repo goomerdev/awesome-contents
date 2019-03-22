@@ -3,7 +3,7 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 <p align="center">
-  <img src="https://github.com/netoguimaraes/awesome-ux/blob/master/Untitled.png"/>
+  <img src="https://github.com/goomerdev/awesome-contents/blob/master/media/logo-azul.png"/>
 </p>
 
 ## Table of Contents
