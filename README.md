@@ -1,6 +1,6 @@
 ### **Awesome Contents** 
 
-> Uma curadoria dos conteúdos que compartilhamos entre o time de produtos da Goomer
+> Uma curadoria dos conteúdos que compartilhamos entre o time de produtos da Goomer.
 >Falta alguma coisa nesta lista? Contribua conosco. 
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
